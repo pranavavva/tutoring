@@ -10,3 +10,7 @@ body {
 .title > p {
     font-style: italic;
 }
+
+.footer {
+    background-color: #f5f5f5;
+}
