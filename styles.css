@@ -1,0 +1,12 @@
+body {
+    position: relative;
+}
+
+.title {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.title > p {
+    font-style: italic;
+}
